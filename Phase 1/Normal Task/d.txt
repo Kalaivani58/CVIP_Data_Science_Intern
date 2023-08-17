@@ -1,1 +1,2 @@
-
+Dataset is taken from Kaggle
+link : https://www.kaggle.com/code/razamh/exploratory-data-analysis-terrorism/input?scriptVersionId=46858400
